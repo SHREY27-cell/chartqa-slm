@@ -9,9 +9,6 @@ Fine-tuning **Qwen2-VL-2B-Instruct** on **ChartQA** for visual question answerin
 | Name | SRN |
 |---|---|
 | Shreyas S Mallappa | PES1UG23AM296 |
-| Sanat Shirwaicar | PES1UG23AM266 |
-| Siddharth M | PES1UG23AM303 |
-| Shreyansh Subham | PES1UG23AM295 |
 
 ---
 
